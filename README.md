@@ -19,7 +19,7 @@ try the chatbot! 👉 https://shadenalturki-chatbot.streamlit.app/
 - [Streamlit](https://streamlit.io) – Web app UI
 - [Groq API](https://groq.com) – Fast AI response engine
 - `python-dotenv` – Load `.env` variables locally
-- Python
+- Python 3.8+
 
 ## Setup & Run Locally
 
