@@ -1,4 +1,4 @@
-# 🤖 Custom Chatbot with Groq API
+# Custom Chatbot with Groq API 🤖 
 
 A fully customizable chatbot built with **Streamlit** and powered by the **Groq API**. This chatbot allows users to choose from multiple AI models, characters, moods, and response settings — all from a clean user interface.
 
