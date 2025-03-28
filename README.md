@@ -33,6 +33,7 @@ bash
 
 ### 2. Create a .env file
 Create a file called .env in the root folder and add your Groq API key:
+https://console.groq.com/keys
 ```bash
 GROQ_API_KEY="your_actual_api_key_here"
 ```
