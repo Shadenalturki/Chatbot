@@ -2,10 +2,16 @@
 
 A fully customizable chatbot built with **Streamlit** and powered by the **Groq API**. This chatbot allows users to choose from multiple AI models, characters, moods, and response settings — all from a clean user interface.
 
-## Website  
+## Website link
 [Click here to view the Website](https://shadenalturki-chatbot.streamlit.app/)
 
 (https://shadenalturki-chatbot.streamlit.app/)
+
+## 🌐 Live Demo
+
+👉 **[Click here to try the chatbot!](https://shadenalturki-chatbot.streamlit.app/)**  
+Hosted on [Streamlit Cloud](https://streamlit.io/cloud)
+
 
 ## Features
 
